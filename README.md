@@ -6,7 +6,7 @@ Flashlight for Android with volume rocker control on the locked screen. That is,
 
 ## Requirements
 
-\- Root rights
-\- Installed BusyBox
-\- Support for running scripts from init.d/post-fs-data.d
+- Root rights;
+- Installed BusyBox;
+- Support for running scripts from "init.d/post-fs-data.d".
 ---
